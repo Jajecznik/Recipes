@@ -4,17 +4,7 @@ This project is a simple recipe website that allows users to browse and view var
 
 ## Project Structure
 
-The project follows a specific structure to organize the files:
-
-odin-recipes/
-├── index.html
-└── recipes/
-├── lasagna.html
-├── recipe2.html
-├── recipe3.html
-└── ...
-
-The `odin-recipes` directory contains the main files for the project.
+The `odin-recipes` directory contains the main files for the project, including `index.html`. The `recipes` directory holds individual recipe pages such as `lasagna.html`, `recipe2.html`, `recipe3.html`, and so on.
 
 ## Getting Started
 
