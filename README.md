@@ -10,7 +10,7 @@ The `odin-recipes` directory contains the main files for the project, including 
 
 To view the recipes website, simply open the `index.html` file in a web browser.
 
-## Project Iterations
+## Project Assignment
 
 ### Iteration 1: Initial Structure
 
