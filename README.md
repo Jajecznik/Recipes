@@ -1,6 +1,6 @@
 # Recipes Project
 
-This project is a simple recipe website that allows users to browse and view various recipes. It is built using HTML and CSS.
+This project is a simple recipe website that allows users to browse and view various recipes. It is built using HTML.
 
 ## Project Structure
 
