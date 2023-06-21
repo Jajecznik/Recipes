@@ -14,7 +14,7 @@ To view the recipes website, simply open the `index.html` file in a web browser.
 
 ### Iteration 1: Initial Structure
 
-In the `odin-recipes` directory, you'll find the `index.html` file that serves as the main page. It contains the basic HTML boilerplate and an `<h1>` heading with the title "Odin Recipes".
+1. Within the `odin-recipes` directory, create an `index.html` file.
 
 ### Iteration 2: Recipe Page
 
